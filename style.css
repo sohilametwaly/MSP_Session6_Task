@@ -201,6 +201,10 @@ html {
   display: none;
 }
 
+.menu-bar-items {
+  transform: scale(0);
+}
+
 .menu-bar-items.change {
   transform: scale(1);
 }
